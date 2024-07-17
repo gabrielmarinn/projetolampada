@@ -1,2 +1,2 @@
 # projetoLampada
-Realizado por Gabriel Marin, estudande de tecnologia.
+Realizado por Gabriel Marin, estudante de tecnologia.
